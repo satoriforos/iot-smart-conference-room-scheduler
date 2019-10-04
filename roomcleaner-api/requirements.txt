@@ -14,7 +14,7 @@ cryptography==0.9.3
 enum34==1.0.4
 gdata==2.0.18
 google-api-python-client==1.4.1
-gunicorn==19.3.0
+gunicorn==19.5.0
 httplib2==0.9.1
 idna==2.0
 ipaddress==1.0.7
