@@ -1,0 +1,2 @@
+web: gunicorn roomcleaner:app
+registration: python register_rooms.py
