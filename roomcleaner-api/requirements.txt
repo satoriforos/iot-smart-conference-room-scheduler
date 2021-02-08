@@ -15,7 +15,7 @@ enum34==1.0.4
 gdata==2.0.18
 google-api-python-client==1.4.1
 gunicorn==19.3.0
-httplib2==0.9.1
+httplib2==0.19.0
 idna==2.0
 ipaddress==1.0.7
 itsdangerous==0.24
